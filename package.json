@@ -15,8 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.6.2",
-    "query-string": "^6.1.0",
-    "react-native-webview": "*"
+    "query-string": "^6.1.0"
   },
   "homepage": "https://github.com/iamport/iamport-react-native",
   "repository": {
